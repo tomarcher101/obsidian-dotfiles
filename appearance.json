@@ -1,0 +1,13 @@
+{
+  "accentColor": "",
+  "theme": "moonstone",
+  "translucency": false,
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "cancelledTask",
+    "text-headers",
+    "task-list"
+  ],
+  "textFontFamily": "Inter",
+  "baseFontSize": 14
+}

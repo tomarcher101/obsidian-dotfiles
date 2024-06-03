@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "c02e651cfe69f6ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0da6c4d0faf0c57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6dbaa632f013b96f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2024-06-04.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "464fabbcabed3d8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "00d839b7ca97667c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d94b777d604a62d8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "39535ea39d9a50ce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9d628f3fff862720",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 308.51103591918945
+  },
+  "right": {
+    "id": "1e1c1b1427b6e90d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0c515a8f1a5972b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec7ce88fd1cb6e3a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily Notes/2024-06-04.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2d052c2781ed153e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily Notes/2024-06-04.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e33911e455ee5296",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0c27a7c79a65726d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily Notes/2024-06-04.md"
+              }
+            }
+          },
+          {
+            "id": "d3ee4d46f95d54c1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "1f3bf770c4f7c5ae",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "900fb91b62cb9994",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "bf08df949ec693e6",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-day-planner:Timeline": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-map-view:Open map view": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "6dbaa632f013b96f",
+  "lastOpenFiles": [
+    "Daily Notes/2024-06-03.md",
+    "Daily Notes/2024-06-04.md",
+    "Tasks/Completed Tasks.md",
+    "Daily Notes/2024-05-27.md",
+    "Django Control Flow.md",
+    "Work/Archa/Archa Onboarding Notes.md",
+    "Work/Archa/High Level Company and Services Architecture.md",
+    "Work/Archa/CSV Export.md",
+    "Work/Archa/Learning Budget.md",
+    "Work/Archa/Merging and Squashing.md",
+    "Work/Archa/Pasted image 20240522140659.png",
+    "Work/Archa/attachments/Pasted image 20240522134732.png",
+    "Work/Archa/attachments/Pasted image 20240522135232.png",
+    "Work/Archa/attachments/Pasted image 20240522135249.png",
+    "Work/Archa/attachments/Pasted image 20240522135419.png",
+    "Work/Archa/attachments/Pasted image 20240522135351.png",
+    "Work/Archa/attachments/Pasted image 20240522135735.png",
+    "Work/Archa/attachments/Pasted image 20240522140227.png",
+    "Work/Archa/attachments",
+    "Work/Archa",
+    "Tasks/All Tasks.md",
+    "Journal/2024-05-20.md",
+    "Drafts/inHabit Vision Document.md",
+    "Journal",
+    "Recipes/Chinese Leaf and Pork Soup.md",
+    "Daily Notes/2024-05-14.md",
+    "Drafts/Untitled 2.md",
+    "Templates/Daily Note Template.md",
+    "Daily Notes/2023-11-22.md",
+    "Job Applications/Canva Interview Prep.md",
+    "Job Applications/Josephmark Studio Interview Prep.md",
+    "Job Applications/Cover Letters.md",
+    "Computing/Data Structures and Algorithms/Arrays and Strings/Sliding Window.md",
+    "Computing/Data Structures and Algorithms/Arrays and Strings/Two Pointers.md",
+    "Drafts/Untitled 1.md",
+    "Computing/Data Structures and Algorithms/Arrays and Strings",
+    "Computing/Data Structures and Algorithms/Arrays and Strings/Arrays and Strings.md",
+    "Computing/Data Structures and Algorithms/Stacks and Queues.md",
+    "Travel",
+    "ThreeJS Journey/attachments/Pasted image 20240104221118.png",
+    "ThreeJS Journey/attachments",
+    "ThreeJS Journey",
+    "Drafts/attachments/Pasted image 20231211110404.png",
+    "Work/Akcelo",
+    "Work",
+    "Computing/React"
+  ]
+}

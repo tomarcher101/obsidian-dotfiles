@@ -1,0 +1,19 @@
+{
+  "todoPageName": "todo",
+  "showChecked": false,
+  "showAllTodos": true,
+  "autoRefresh": true,
+  "subGroups": false,
+  "groupBy": "page",
+  "sortDirectionItems": "new->old",
+  "sortDirectionGroups": "new->old",
+  "sortDirectionSubGroups": "new->old",
+  "includeFiles": "!Templates/**",
+  "lookAndFeel": "classic",
+  "_collapsedSections": [
+    "Tasks/Meetings.md",
+    "Daily Notes/2023-11-27.md",
+    "Daily Notes/2023-11-26.md"
+  ],
+  "_hiddenTags": []
+}

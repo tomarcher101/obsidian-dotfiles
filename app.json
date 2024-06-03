@@ -1,0 +1,10 @@
+{
+  "vimMode": true,
+  "legacyEditor": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newLinkFormat": "shortest",
+  "attachmentFolderPath": "./attachments",
+  "showInlineTitle": false,
+  "newFileFolderPath": "Drafts"
+}

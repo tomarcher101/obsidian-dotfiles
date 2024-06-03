@@ -1,0 +1,22 @@
+.cm-header.cm-header-1 {
+    font-size: 2.2em !important;
+}
+
+.cm-header.cm-header-2 {
+    font-size: 2em !important;
+}
+
+.cm-header.cm-header-3 {
+    font-size: 1.8em !important;
+    font-weight: 600 !important;
+}
+
+.cm-header.cm-header-4 {
+    font-size: 1.6em !important;
+    font-weight: 600 !important;
+}
+
+.cm-header.cm-header-5 {
+    font-size: 1.4em !important;
+    font-variant: normal !important;
+}
